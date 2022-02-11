@@ -1,2 +1,2 @@
 NAME : AARON GEO BINOY
-# mysql-python-menu-based-crud
+# MySQL-Python based hotel management system
